@@ -1,0 +1,36 @@
+Design pattern is a reusable solution or a template for problems in software design. 
+It is just a ready-made template that can be used for our solution , not a working code.
+
+Types:
+======
+        1. Creational pattern  
+        2. Structural pattern
+        3. Behavioural pattern
+
+
+1. Creationl pattern:
+=======================
+        *Focuses on how objects should be created based on the situation
+
+         Commonly used creational patterns:
+         ----------------------------------
+                1. Singelton
+                2. Factory
+                3. Abstract Factory
+                4. Builder .....
+
+                
+2. Structural pattern:
+========================
+        * Focuses on composition of classes and objects to keep the system efficient.
+        Commonly used structural patterns:
+        ----------------------------------
+            Adapter,Decorator,Composite,Proxy
+
+
+3.Behavioural pattern:
+=======================
+        * Focuses on communication between the objects. Deals with flow of data between classes and objects.
+        Commonly used Behavioural pattern:
+        ----------------------------------
+            Observer,Iterator,Strategy,command
