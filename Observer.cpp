@@ -54,5 +54,9 @@ int main(){
     p->subscribe(subB);
 
     p->notify();
+
+    delete subA;
+    delete subB;
+    delete p;
     return 0;
 }
